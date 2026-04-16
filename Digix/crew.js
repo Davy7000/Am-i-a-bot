@@ -71,11 +71,11 @@ async function connectToWhatsapp(handleMessage) {
                 }
 
                 const messageText = `
-╔══════════════════╗
+╔═════════════════
       *㊝모ＡＩＭＢＯＴ？？？☯︎ Bot Connected Successfully* 🚀
-╠══════════════════╣
+╠═════════════════
 > "㊝모ＡＩＭＢＯＴ？？？☯︎ enjoy your life"
-╚══════════════════╝
+╚═════════════════
 
 *𝑻𝒘𝒊𝒍𝒊𝒈𝒉𝒕_𝑲𝒊𝒏𝒈☯❥*
                 `;
