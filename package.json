@@ -1,7 +1,7 @@
 {
-  "name": "Shadow Crew-XMD",
+  "name": "㊝모ＡＩＭＢＯＴ？？？☯︎",
   "version": "1.0.0",
-  "description": "Digital Crew WhatsApp Bot — a powerful, fun and intelligent bot packed with extra features, AI capabilities and a sleek futuristic design",
+  "description": "㊝모ＡＩＭＢＯＴ？？？☯︎ WhatsApp Bot — a powerful, fun and intelligent bot packed with extra features, AI capabilities and a sleek futuristic design",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -13,8 +13,8 @@
     "bot",
     "automation",
     "ai",
-    "digix",
-    "crew"
+    "am",
+    "twilight"
   ],
   "dependencies": {
     "baileys": "npm:baileys@latest",
@@ -27,6 +27,6 @@
     "file-type": "^19.0.0",
     "form-data": "^4.0.1"
   },
-  "author": "𓆩 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐂𝐫𝐞𝐰 𝟐𝟒𝟑 𓆪",
+  "author": "𝑻𝒘𝒊𝒍𝒊𝒈𝒉𝒕_𝑲𝒊𝒏𝒈☯❥",
   "license": "ISC"
 }
