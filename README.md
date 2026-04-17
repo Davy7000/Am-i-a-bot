@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=32&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=900&lines=㊝모ＡＩＭＢＯＴ？？？☯︎+BEST+BOT+WHATSAPP+100%2B+FEATURES" alt="Typing Animation">
 </h1>
 
-## <a name="panel-setup" href=''>💻Panel Deployment Guide</a>
+## <a name="panel-setup" href='#tlm'>💻Panel Deployment Guide</a>
 
 Use this guide if you are deploying on
 **Optilink,Pterodactyl,Katabump, Render, or GitHub**.
@@ -44,7 +44,7 @@ Use this guide if you are deploying on
     <img title="DEPLOY ㊝모ＡＩＭＢＯＴ？？？☯︎" src="https://img.shields.io/badge/🚀_TUTORIAL_VEDEO_HERE-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
   </a>
 </p>
-<h2>Télécharger le <a href=''>fichier.zip</a></h2>
+<h2 id='tlm'>Télécharger le <a href=''>fichier.zip</a></h2>
 
 
 
