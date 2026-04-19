@@ -77,7 +77,7 @@ async function connectToWhatsapp(handleMessage) {
 > "㊝모ＡＩＭＢＯＴ？？？☯︎ enjoy your life"
 ╚═════════════════
 
-*𝑻𝒘𝒊𝒍𝒊𝒈𝒉𝒕_𝑲𝒊𝒏𝒈☯❥*
+*모『Ⓞ𝐒𝐒 𝐂Ⓞ𝐌𝐏𝐀𝐆𝐍𝐘『🧠』모*
                 `;
 
                 await sock.sendMessage(chatId, {
